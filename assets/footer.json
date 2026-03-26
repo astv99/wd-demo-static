@@ -1,0 +1,116 @@
+{
+  "block_one": {
+    "headerText": "Contact Us",
+    "email": "itlp@colorado.edu",
+    "phone": "303-492-3475",
+    "address_line_one": "ITLL Building",
+    "address_line_two": "1111 Engineering Dr",
+    "address_line_three": "Boulder, CO 80309"
+  },
+  "block_two": {
+    "headerText": "Quick Links",
+    "links": [
+      {
+        "text": "Workshop Calendar",
+        "url": ""
+      },
+      {
+        "text": "Equipment Booking",
+        "url": ""
+      },
+      {
+        "text": "Safety Training",
+        "url": ""
+      },
+      {
+        "text": "User Guides",
+        "url": ""
+      }
+    ]
+  },
+  "block_three": {
+    "headerText": "Resources",
+    "links": [
+      {
+        "text": "Design Thinking",
+        "url": ""
+      },
+      {
+        "text": "Project Management",
+        "url": ""
+      },
+      {
+        "text": "Technical Documentation",
+        "url": ""
+      },
+      {
+        "text": "Innovation Hub",
+        "url": ""
+      }
+    ]
+  },
+  "block_four": {
+    "headerText": "University Links",
+    "links": [
+      {
+        "text": "CU Boulder",
+        "url": ""
+      },
+      {
+        "text": "College of Engineering",
+        "url": ""
+      },
+      {
+        "text": "Student Resources",
+        "url": ""
+      },
+      {
+        "text": "Faculty Portal",
+        "url": ""
+      }
+    ]
+  },
+  "block_five": {
+    "headerText": "Be Boulder",
+    "logo": "insertpath",
+    "urls": [
+      {
+        "text": "University of Colorado Boulder",
+        "url": ""
+      },
+      {
+        "text": "&copy; Regents of the University of Colorado",
+        "url": ""
+      },
+      {
+        "text": "Privacy",
+        "url": ""
+      },
+      {
+        "text": "Legal & Trademarks",
+        "url": ""
+      },
+      {
+        "text": "Campus Map",
+        "url": ""
+      }
+    ]
+  },
+  "copyright": {
+    "copyrightText": "&copy;2026 University of Colorado Boulder. All rights reserved.",
+    "urls": [
+      {
+        "text": "Privacy Policy",
+        "url": ""
+      },
+      {
+        "text": "Terms of Service",
+        "url": ""
+      },
+      {
+        "text": "Accessibility",
+        "url": ""
+      }
+    ]
+  }
+}
