@@ -1,0 +1,1 @@
+import{L as t}from"./webductorTypes-4RQzqXDp.js";const o=window.__APP_CONFIG__?.CMS_ENDPOINT??"http://localhost:1337";function n(r){return t[r]}function l(r){return r?new URL(r,o).toString():""}export{n as g,l as r};
