@@ -1,0 +1,17 @@
+@use "sass:map";
+@use "vuetify/lib/styles/settings" as vuetify;
+
+@media #{map.get(vuetify.$display-breakpoints, 'xs')} {
+  html {
+    scrollbar-width: none;
+  }
+
+  html::-webkit-scrollbar {
+    display: none;
+  }
+
+  .v-snackbar__wrapper {
+    min-width: 0 !important;
+    width: calc(100vw - 16px) !important;
+  }
+}
